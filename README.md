@@ -21,3 +21,4 @@ Implemented using the following tools:
   - Google Tag Manager for Wordpress
   - GTranslate
 - [Google Tag Manager](https://tagmanager.google.com/).
+- [Google Analytics](https://analytics.google.com/).
