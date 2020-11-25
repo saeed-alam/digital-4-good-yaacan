@@ -22,3 +22,6 @@ Implemented using the following tools:
   - GTranslate
 - [Google Tag Manager](https://tagmanager.google.com/).
 - [Google Analytics](https://analytics.google.com/).
+
+Doc:
+[Implementing Google Analytics with GTM (Google Tag Manager)](https://support.google.com/tagmanager/answer/6107124?hl=en)
