@@ -15,9 +15,9 @@ The scope includes:
 1. Google Tag Manager to help understand user behaviour 
 
 Implemented using the following tools:
-1. Wordpress & Plugins
-1. Plugins used: 
+- Wordpress & Plugins
+- Plugins used: 
   - Elementor
   - Google Tag Manager for Wordpress
   - GTranslate
-1. [Google Tag Manager](https://tagmanager.google.com/).
+-[Google Tag Manager](https://tagmanager.google.com/).
