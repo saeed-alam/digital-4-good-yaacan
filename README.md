@@ -20,4 +20,4 @@ Implemented using the following tools:
   - Elementor
   - Google Tag Manager for Wordpress
   - GTranslate
--[Google Tag Manager](https://tagmanager.google.com/).
+- [Google Tag Manager](https://tagmanager.google.com/).
