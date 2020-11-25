@@ -6,16 +6,10 @@ End goal is to increase number of new visitors to YAACAN website thus effectivel
 
 The scope includes: 
 
-Main home page redesign 
-
-Design templates for other pages 
-
-Responsive design across desktop, mobile, and tablet 
-
-Content restructuring and copy writing 
-
-SEO refinement  
-
-Google analytics 
-
-Google Tag Manager to help understand user behaviour 
+1. Main home page redesign 
+1. Design templates for other pages 
+1. Responsive design across desktop, mobile, and tablet 
+1. Content restructuring and copy writing 
+1. SEO refinement  
+1. Google analytics 
+1. Google Tag Manager to help understand user behaviour 
