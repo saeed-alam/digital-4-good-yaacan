@@ -13,3 +13,11 @@ The scope includes:
 1. SEO refinement  
 1. Google analytics 
 1. Google Tag Manager to help understand user behaviour 
+
+Implemented using the following tools:
+1. Wordpress & Plugins
+1. Plugins used: 
+  1. Elementor
+  1. Google Tag Manager for Wordpress
+  1. GTranslate
+1. [Google Tag Manager](https://tagmanager.google.com/).
