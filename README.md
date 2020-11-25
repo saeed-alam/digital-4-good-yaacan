@@ -17,7 +17,7 @@ The scope includes:
 Implemented using the following tools:
 1. Wordpress & Plugins
 1. Plugins used: 
-  a. Elementor
-  a. Google Tag Manager for Wordpress
-  a. GTranslate
+  - Elementor
+  - Google Tag Manager for Wordpress
+  - GTranslate
 1. [Google Tag Manager](https://tagmanager.google.com/).
